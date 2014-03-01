@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions">
+        <item>What is the largest country by area?</item>
+        <item>Where is Australia?</item>
+        <item>Where is Greenland?</item>
+        <item>Where is New York?</item>
+        <item>Where is the capital of India?</item>
+        <item>Where is the capital of China?</item>
+        <item>Where is California?</item>
+        <item>Where is Scotland?</item>
+        <item>In which city is the Eiffel Tower located?</item>
+        <item>Locate Egypt on the map.</item>
+        <item>Locate Brazil on the map.</item>
+        <item>What is the capital of New Zealand?</item>
+        <item>Which city hosted the 2014 Winter Olympics?</item>
+        <item>Which city hosted the 2012 Olympic Games?</item>
+        <item>Locate the capital of Italy.</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Russia</item>
+        <item>Australia</item>
+        <item>Greenland</item>
+        <item>New York</item>
+        <item>New Delhi</item>
+        <item>Beijing</item>
+        <item>California</item>
+        <item>Scotland</item>
+        <item>Paris</item>
+        <item>Egypt</item>
+        <item>Brazil</item>
+        <item>Wellington</item>
+        <item>Sochi</item>
+        <item>London</item>
+        <item>Rome</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>country</item>
+        <item>Where is Australia?</item>
+        <item>Where is Greenland?</item>
+        <item>Where is New York?</item>
+        <item>Where is the capital of India?</item>
+        <item>Where is the capital of China?</item>
+        <item>Where is California?</item>
+        <item>Where is Scotland?</item>
+        <item>In which city is the Eiffel Tower located?</item>
+        <item>Locate Egypt on the map.</item>
+        <item>Locate Brazil on the map.</item>
+        <item>What is the capital of New Zealand?</item>
+        <item>Which city hosted the 2014 Winter Olympics?</item>
+        <item>Which city hosted the 2012 Olympic Games?</item>
+        <item>Locate the capital of Italy.</item>
+    </string-array>
+
+</resources>
