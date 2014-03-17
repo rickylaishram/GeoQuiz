@@ -70,6 +70,7 @@ public class QuizActivity extends Activity {
     private void initilizeMap() {
         mMap.getUiSettings().setCompassEnabled(true);
         mMap.getUiSettings().setZoomControlsEnabled(true);
+        mMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE);      // This will make sure user do not see the labels
 
         mMap.setOnMapClickListener(mapClick);
     }
